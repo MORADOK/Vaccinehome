@@ -1,6 +1,6 @@
 {
   "name": "n8n-vaccine-workflow",
-  "version": "1.0.0",
+  "version": "1.10.1",
   "description": "N8N Vaccine Workflow System on Render",
   "main": "index.js",
   "scripts": {
